@@ -10,3 +10,8 @@
 - [subscan浏览器](https://www.subscan.io/)
 - [在 Substrate 上如何完成某些特定的功能点](https://docs.substrate.io/reference/how-to-guides/)
 - [哔哩令狐视频](https://space.bilibili.com/485433391?spm_id_from=333.337.search-card.all.click)
+
+## 案例 examples
+- [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
+- [kitties chain 加密猫demo](https://github.com/hello-substrate/substrate-examples/tree/kitties)
+  - [教程地址](https://doc.deepernetwork.org/tutorials/v3/kitties/pt1/)
