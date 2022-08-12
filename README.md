@@ -1,6 +1,6 @@
 # hello-substrate
 
-- 记录学习 `substrate` 文档的一些内容
+- 记录学习 `substrate` 的一些内容
 
 ## 学习方法
 - [详细介绍](https://mp.weixin.qq.com/s/dsdRCZGYdzRcjqW4BvT-kA)
@@ -14,9 +14,9 @@
 
 ## 案例 examples
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
-- [抛硬币demo](todo)
+- [todo - 抛硬币demo]()
   - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
-- [文件存在证明应用程序](https://github.com/hello-substrate/substrate-examples/tree/file-exists-claim)
+- [文件存在证明应用程序](https://github.com/hello-substrate/substrate-pallet/tree/file-exists-claim)
   - https://docs.substrate.io/tutorials/work-with-pallets/use-macros-in-a-custom-pallet/
-- [kitties chain 加密猫demo](https://github.com/hello-substrate/substrate-examples/tree/kitties)
+- [kitties chain 加密猫demo](https://github.com/hello-substrate/substrate-pallet/tree/kitties)
   - [教程地址](https://doc.deepernetwork.org/tutorials/v3/kitties/pt1/)
