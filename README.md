@@ -16,17 +16,16 @@
 - [polkadot 官方文档](https://wiki.polkadot.network/docs/getting-started)
 - [polkadot.js 官方文档](https://polkadot.js.org/docs/)
 - [subscan 浏览器](https://www.subscan.io/)
+- [抛硬币](https://whisperd.tech/post/substrate_coin_flip/)
+  - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
 
 ## 案例 examples
 
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
 - [部署公开测试网](https://whisperd.tech/post/substrate_launch_public_testnet/)
-- [todo - 抛硬币 demo]()
-  - https://whisperd.tech/post/substrate_coin_flip/
-  - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
-- [简单的链上众筹应用程序](https://github.com/hello-substrate/substrate-pallet/tree/simple-crowd-fund)
-  - https://substrate.recipes/crowdfund.html
 - [文件存在证明应用程序](https://github.com/hello-substrate/substrate-pallet/tree/file-exists-claim)
   - https://docs.substrate.io/tutorials/work-with-pallets/use-macros-in-a-custom-pallet/
+- [简单的链上众筹应用程序](https://github.com/hello-substrate/substrate-pallet/tree/simple-crowd-fund)
+  - https://substrate.recipes/crowdfund.html
 - [kitties chain 加密猫 demo](https://github.com/hello-substrate/substrate-pallet/tree/kitties)
   - [教程地址](https://doc.deepernetwork.org/tutorials/v3/kitties/pt1/)
