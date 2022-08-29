@@ -1,6 +1,8 @@
 # hello-substrate
 
 - 记录学习 `substrate` 的一些内容
+## todo 
+寻找链下工作者的视频学习
 
 ## 学习方法
 
@@ -22,6 +24,8 @@
 ## 案例 examples
 
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
+- [官方代码文档阅读](https://crates.parity.io)
+  - 如 [frame_system](https://crates.parity.io/sc_service/index.html?search=frame_system)
 - [部署公开测试网](https://whisperd.tech/post/substrate_launch_public_testnet/)
 - [文件存在证明应用程序](https://github.com/hello-substrate/substrate-pallet/tree/file-exists-claim)
   - [源码](https://github.com/hello-substrate/substrate-pallet/tree/file-exists-claim)
