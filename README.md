@@ -1,7 +1,13 @@
 # hello-substrate
 
 - 记录学习 `substrate` 的一些内容
-## todo 
+
+## 笔记
+
+[新增一个 pallet](./docs/新增一个pallet.md)
+
+## todo
+
 寻找链下工作者的视频学习
 
 ## 学习方法
