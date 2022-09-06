@@ -41,4 +41,5 @@
   - https://substrate.recipes/crowdfund.html
 - [kitties chain 加密猫 demo](https://github.com/hello-substrate/substrate-pallet/tree/kitties)
   - [源码](https://github.com/hello-substrate/substrate-pallet/tree/kitties)
+  - [官方源码](https://github.com/substrate-developer-hub/substrate-node-template/tree/tutorials/solutions/kitties)
   - [教程地址](https://doc.deepernetwork.org/tutorials/v3/kitties/pt1/)
