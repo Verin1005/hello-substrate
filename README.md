@@ -28,7 +28,7 @@
   - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
 
 ## 案例 examples
-
+- [swallower](https://github.com/NFTicket-Lab/swallower)
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
 - [官方代码文档阅读](https://crates.parity.io)
   - 如 [frame_system](https://crates.parity.io/sc_service/index.html?search=frame_system)
