@@ -13,12 +13,14 @@ members = [
 ```
 [package]
 name = "pallet-example"
+version = "1.0.0"
 ```
 
 - 替换 pallets/example/src/mock.rs
 - 替换 pallets/example/src/tests.rs
 
 ```
+注意替换的顺序
 pallet_template -> pallet_example
 Template -> Example
 ```
@@ -46,7 +48,7 @@ try-runtime = [
 
 ```
 1. 导入 pallet
-pub use pallet_kitties;
+pub use pallet_example;
 
 2. construct_runtime! 上方加入
 impl pallet_example::Config for Runtime {
@@ -56,11 +58,11 @@ impl pallet_example::Config for Runtime {
 3. construct_runtime 内配置 pallet
 construct_runtime!({
   // local
-  Example: pallet_example,
+  ExampleModule: pallet_example,
 });
 
 4. benchmarks
 define_benchmarks!(
-  [pallet_example, Example]
+  [pallet_example, ExampleModule]
 );
 ```
