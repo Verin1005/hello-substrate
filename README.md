@@ -6,9 +6,11 @@
 
 [新增一个 pallet](./docs/新增一个pallet.md)
 
-## todo
+## 工具
 
-寻找链下工作者的视频学习
+- 在线的 BS58 解码器
+  - https://whisperd.tech/bs58-codec/
+  - 或者 bs58库的 bs58::decode("12D3KooWBmAwcd4PJNJvfV89HwE48nwkRmAgo8Vy3uQEyNNHBox2")
 
 ## 学习方法
 
@@ -28,6 +30,7 @@
   - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
 
 ## 案例 examples
+
 - [swallower](https://github.com/NFTicket-Lab/swallower)
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
 - [官方代码文档阅读](https://crates.parity.io)
