@@ -7,13 +7,14 @@
 [新增一个 pallet](./docs/新增一个pallet.md)
 
 ## 工具
-
+- 问题解答 https://substrate.stackexchange.com/
 - 在线的 BS58 解码器
   - https://whisperd.tech/bs58-codec/
   - 或者 bs58库的 bs58::decode("12D3KooWBmAwcd4PJNJvfV89HwE48nwkRmAgo8Vy3uQEyNNHBox2")
 
 ## 学习方法
 
+- [Substrate学习网站](https://www.subdev.cn/)
 - [详细介绍](https://mp.weixin.qq.com/s/dsdRCZGYdzRcjqW4BvT-kA)
 - [官方文档](https://docs.substrate.io/quick-start/)
 - [substrate recipes 最佳实践](https://substrate.recipes/introduction.html)
