@@ -27,11 +27,11 @@
 - [polkadot 官方文档](https://wiki.polkadot.network/docs/getting-started)
 - [polkadot.js 官方文档](https://polkadot.js.org/docs/)
 - [subscan 浏览器](https://www.subscan.io/)
-- [抛硬币](https://whisperd.tech/post/substrate_coin_flip/)
-  - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
 
-## 案例 examples
+## 案例/模版
 
+- [substrate 开放运行时模版库](https://github.com/open-web3-stack/open-runtime-module-library)
+- [nft](https://github.com/rmrk-team/rmrk-substrate)
 - [swallower](https://github.com/NFTicket-Lab/swallower)
 - [官方案例](https://github.com/paritytech/substrate/tree/master/frame/examples)
 - [官方代码文档阅读](https://crates.parity.io)
@@ -47,3 +47,6 @@
   - [源码](https://github.com/hello-substrate/substrate-pallet/tree/kitties)
   - [推荐教程](https://sacha-l.github.io/substrate-collectables-workshop/#/) 与 [源码](https://github.com/substrate-developer-hub/substrate-node-template/tree/tutorials/solutions/kitties)
   - [教程地址](https://doc.deepernetwork.org/tutorials/v3/kitties/pt1/)
+- [抛硬币](https://whisperd.tech/post/substrate_coin_flip/)
+  - https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/
+
