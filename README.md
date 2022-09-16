@@ -36,7 +36,11 @@
 
 ## 案例/实操
 
+https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/08-polket
+https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/15-melody
+https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/12-Web3Hacker.Ninja
 - [黑客松的项目](https://github.com/ParityAsia/hackathon-2022-summer)
+  - [项目列表](https://mp.weixin.qq.com/s/2gYmLylCseA6xt3TXeqocA)
 - [substrate recipes 最佳实践](https://substrate.recipes/introduction.html)
   - https://github.com/JoshOrndorff/recipes
 - [substrate 练习(有用!!)](https://github.com/rusty-crewmates/substrate-tutorials/blob/main/exercises/ex03-nft/nft/src/lib.rs)
