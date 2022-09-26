@@ -22,6 +22,7 @@ https://blog.csdn.net/di_didan/article/details/110949605
 
 ## u32 -> BlockNumber
 
+- `let block_number = T::BlockNumber::from(1u32);`
 - `let block_number :T::BlockNumber = 100_u32.into();`
 - 或者用 saturated_into() 转换
   ```

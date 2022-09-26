@@ -12,6 +12,9 @@
 
 ## 工具
 
+- [节点浏览器](https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A9944#/explorer)
+- [合约浏览器](https://contracts-ui.substrate.io/)
+- [前端不会的调用方法可以搜索查看](https://github.com/TarikGul/jsonrpsee-external-tests)
 - 问题解答 https://substrate.stackexchange.com/
 - 在线的 BS58 解码器
   - https://whisperd.tech/bs58-codec/
