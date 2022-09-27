@@ -4,11 +4,13 @@
 
 ## 笔记
 
-[新增一个 pallet](./docs/新增一个pallet.md)
+[substrate](./docs/substrate/)
+[优化](./docs/优化.md)
+[调试](./docs/调试.md)
 
 ## 框架
 
-[rmrk nft 标准协议开发](./frame/rmrk.md)
+[框架](./docs/substrate/frame)
 
 ## 工具
 
@@ -42,6 +44,7 @@
 https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/08-polket
 https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/15-melody
 https://github.com/ParityAsia/hackathon-2022-summer/tree/main/teams/12-Web3Hacker.Ninja
+
 - [黑客松的项目](https://github.com/ParityAsia/hackathon-2022-summer)
   - [项目列表](https://mp.weixin.qq.com/s/2gYmLylCseA6xt3TXeqocA)
 - [substrate recipes 最佳实践](https://substrate.recipes/introduction.html)
