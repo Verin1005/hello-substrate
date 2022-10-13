@@ -4,9 +4,9 @@
 
 ## 笔记
 
-[substrate](./docs/substrate/)
-[优化](./docs/优化.md)
-[调试](./docs/调试.md)
+- [substrate](./docs/substrate/)
+- [优化](./docs/优化.md)
+- [调试](./docs/调试.md)
 
 ## 框架
 
